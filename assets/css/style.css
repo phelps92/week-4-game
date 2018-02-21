@@ -1,0 +1,29 @@
+/* General Elements*/
+body{
+	background-image: url("http://freedesignfile.com/upload/2016/10/abstract-crystal-background-HD-picture-08.jpg")
+}
+div{
+	background-color: white;
+	margin: 10px;
+	width: 25%
+}
+div{
+	border: solid 2px antiquewhite;
+	padding: 10px;
+}
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30px;
+}
+
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 60px;
+	margin: 10px;
+}
+
